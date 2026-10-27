@@ -1,4 +1,6 @@
-Hi, I'm Tobias, a software engineer in Denmark with an MSc in Computer Science.
+# Hi, I'm Tobias
+
+Software engineer in Denmark with an MSc in Computer Science.
 
 Enjoying the world of programming and trying to keep a leash on my many agents in this crazy new AI paradigm.
 
